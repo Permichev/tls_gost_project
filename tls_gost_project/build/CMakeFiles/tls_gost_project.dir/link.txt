@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/tls_gost_project.dir/main.cpp.o -o tls_gost_project  /opt/homebrew/opt/openssl@3/lib/libcrypto.dylib /opt/homebrew/opt/openssl@3/lib/libssl.dylib

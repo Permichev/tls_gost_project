@@ -1,0 +1,3 @@
+/Users/nper/Desktop/HSE/ПАЗИ/tls_gost_project/build/CMakeFiles/tls_gost_project.dir
+/Users/nper/Desktop/HSE/ПАЗИ/tls_gost_project/build/CMakeFiles/edit_cache.dir
+/Users/nper/Desktop/HSE/ПАЗИ/tls_gost_project/build/CMakeFiles/rebuild_cache.dir
